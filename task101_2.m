@@ -1,4 +1,4 @@
-function retval = task_102 ()
+function sowmik = task_102 ()
 
   function y=f(x)
     y=x.^3-2*x.^2-4;
